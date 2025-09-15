@@ -1,0 +1,8 @@
+# Sample Student Database - Automated Attendance System
+# Columns: StudentID, Name, Class, Section, FaceID
+
+101, Rohan Sharma, 5, A, Face_101
+102, Priya Singh, 5, A, Face_102
+103, Ankit Verma, 6, B, Face_103
+104, Sanya Mehta, 6, B, Face_104
+105, Aarav Kumar, 7, A, Face_105

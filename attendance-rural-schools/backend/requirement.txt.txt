@@ -1,0 +1,6 @@
+Flask==2.3.2
+# Future dependencies:
+# - face_recognition
+# - opencv-python
+# - SQLAlchemy
+# - Twilio (for SMS/IVR)

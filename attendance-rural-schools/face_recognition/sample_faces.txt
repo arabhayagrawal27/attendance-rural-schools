@@ -1,0 +1,2 @@
+# Sample Faces
+# Student face images will be added here for training

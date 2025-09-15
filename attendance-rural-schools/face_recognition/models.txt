@@ -1,0 +1,2 @@
+# Models
+# Trained face recognition models will be stored here

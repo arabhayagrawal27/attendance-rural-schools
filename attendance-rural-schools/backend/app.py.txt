@@ -1,0 +1,19 @@
+# app.py
+# Backend for Automated Attendance System
+# Placeholder code - to be implemented
+
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Automated Attendance System Backend - To be implemented"
+
+# Future Endpoints:
+# - /attendance : Mark attendance
+# - /students : Add/Fetch student data
+# - /notifications : Send SMS/IVR alerts
+
+if __name__ == '__main__':
+    app.run(debug=True)

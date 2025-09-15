@@ -1,0 +1,8 @@
+// Placeholder JavaScript for Automated Attendance System
+
+console.log("Frontend JS will be implemented here");
+
+// Future functionality:
+// - Capture student face
+// - Display attendance dashboard
+// - Send attendance status to backend

@@ -1,0 +1,8 @@
+# Database Configuration Placeholder
+# Example for future connection
+
+DB_TYPE=SQLite
+DB_NAME=attendance.db
+DB_HOST=localhost
+DB_USER=
+DB_PASSWORD=
